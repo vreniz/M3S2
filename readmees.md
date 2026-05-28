@@ -1,6 +1,7 @@
 ## Historia de usuario M3S2
 
 Práctica de gestión de datos en JavaScript usando **Objetos**, **Sets** y **Maps**. Incluye creación, iteración y validación de un catálogo de productos musicales.
+- [Leer en Ingles](README.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Practice project for data management in JavaScript using **Objects**, **Sets**, and **Maps**. Includes creation, iteration, and validation of a musical product catalog.
 
-- ![Readme en español](readmeed.md)
+- [Leer en español](readmees.md)
 ---
 
 ## User Story

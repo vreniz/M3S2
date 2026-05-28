@@ -1,27 +1,8 @@
-# gestion_datos.js
+# User Story M3S2
 
 Practice project for data management in JavaScript using **Objects**, **Sets**, and **Maps**. Includes creation, iteration, and validation of a musical product catalog.
 
 - [Leer en español](readmees.md)
----
-
-## User Story
-
-**Goal:** Consolidate the use of advanced JavaScript data structures to organize, store, and manipulate information efficiently.
-
-**Acceptance criteria met:**
-
-| Criterion | Status |
-|-----------|--------|
-| File named `gestion_datos.js` | ✅ |
-| Use of `const` and `let` (no `var`) | ✅ |
-| Implementation of Object, Set, and Map | ✅ |
-| Use of `for...in`, `for...of`, `forEach()`, `Object.keys/values/entries()` | ✅ |
-| Validations to prevent incomplete data | ✅ |
-| Explanatory comments in each section | ✅ |
-
-**Story Points:** 25
-
 ---
 
 ## File Structure
